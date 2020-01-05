@@ -61,7 +61,7 @@ public class FinestraProve extends JFrame {
 		textField = new JTextField();
 		textField.setBounds(15, 54, 86, 20);
 		textField.setColumns(10);
-		
+		//mammita
 		textField_1 = new JTextField();
 		textField_1.setBounds(15, 96, 86, 20);
 		textField_1.setColumns(10);
